@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Soccer（https://github.com/kuroishirai/SocialDeveloper_shirai）
 - Encourage becoming a PhD student.
 - tennis
+- table tennis
