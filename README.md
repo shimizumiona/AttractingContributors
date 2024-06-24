@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Encourage becoming a PhD student.
 - tennis
 - badminton
+- table tennis
