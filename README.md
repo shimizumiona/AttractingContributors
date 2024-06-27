@@ -22,3 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of food
 1. Sushi
+2. udon
+
