@@ -21,4 +21,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of food
-1. Pho (vietnamese noodle)
+1. Sushi
+2. udon
+3. hamburger
+4. ramen
+5. Ramen
+6. Pho (vietnamese noodle)
