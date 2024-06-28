@@ -27,4 +27,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. ramen
 5. Ramen
 6. Pho (vietnamese noodle)
-7. Natto
+7. Karaage
+8. Natto
+
