@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Karaage
 8. Natto
 9. Pizza
+10. Soba
