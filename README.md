@@ -20,3 +20,4 @@ What is your favorite hiragana? Please feel free to write one character!
 - あ
 
 # List of Hiragana
+- い
