@@ -15,9 +15,11 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Dream Destinations)
+My goal is to have contributors help me list some attractive cities they would like to travel to at least once in their lifetime.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Destinations
+1. Paris (France)
+2. NewYork (US)
+3. Shenzhen (China)
+4. Venice (Italy)
