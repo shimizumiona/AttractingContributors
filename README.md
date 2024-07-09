@@ -23,6 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Your favorite place/city
 - Hamamatsu
 - Nagoya
+- Himeshimamura
 - Shanghai
 - Kyoto city
 - 
