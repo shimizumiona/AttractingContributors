@@ -32,3 +32,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Pizza
 10. Soba
 11. Rice
+12. Tenpura
+
