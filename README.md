@@ -24,3 +24,4 @@ My goal is to have contributors help me list some attractive cities they would l
 - Shenzhen (China)
 - Venice (Italy)
 - Tokyo (Japan)
+- Bangkok (Thailand)
