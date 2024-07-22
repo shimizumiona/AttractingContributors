@@ -19,8 +19,8 @@ To complete the assignment, please do the following:
 My goal is to have contributors help me list some attractive cities they would like to travel to at least once in their lifetime.
 
 # List of Destinations
-1. Paris (France)
-2. NewYork (US)
-3. Shenzhen (China)
-4. Venice (Italy)
-5. Tokyo (Japan)
+- Paris (France)
+- NewYork (US)
+- Shenzhen (China)
+- Venice (Italy)
+- Tokyo (Japan)
