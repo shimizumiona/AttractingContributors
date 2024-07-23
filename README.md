@@ -28,3 +28,4 @@ My goal is to have contributors help me list some attractive cities they would l
 - London (England)
 - Okinawa（Japan）
 - Chinese Taipei
+- Kyoto (japan)
