@@ -27,3 +27,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Shanghai
 - Kyoto city
 - Shizuoka
+- Shinsaebashi
+- Nagano City
