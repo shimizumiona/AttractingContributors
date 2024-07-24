@@ -26,6 +26,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Himeshimamura
 - Shanghai
 - Kyoto city
+- Nara
 - Shirahama
 - Shizuoka
 - Shinsaebashi
