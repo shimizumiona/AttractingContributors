@@ -30,3 +30,4 @@ My goal is to have contributors help me list some attractive cities they would l
 - Chinese Taipei
 - Kyoto (japan)
 - Osaka (Japan)
+- Kamakura (Japan)
