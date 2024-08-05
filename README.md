@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - table tennis
 - Swimming
 - mahjong
+- Runnning
