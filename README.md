@@ -23,4 +23,5 @@ What is your favorite hiragana? Please feel free to write one character!
 - い
 - ぬ
 - ん
+- お
 
