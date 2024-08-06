@@ -32,3 +32,5 @@ My goal is to have contributors help me list some attractive cities they would l
 - Osaka (Japan)
 - Kamakura (Japan)
 - Hawaii (US)
+- Sapporo (Japan)
+- Barcelona (Spain)
