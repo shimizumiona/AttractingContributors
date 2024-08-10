@@ -5,3 +5,4 @@ Example
 # List of prefectures
 - Nagano
 - Hokkaido
+- Osaka
